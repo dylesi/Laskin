@@ -1,0 +1,7 @@
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\bin\Debug\TestiLaskin.exe.config
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\bin\Debug\TestiLaskin.exe
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\bin\Debug\TestiLaskin.pdb
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\obj\Debug\TestiLaskin.csproj.AssemblyReference.cache
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\obj\Debug\TestiLaskin.csproj.CoreCompileInputs.cache
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\obj\Debug\TestiLaskin.exe
+C:\Users\179492\source\repos\TestiLaskin\TestiLaskin\obj\Debug\TestiLaskin.pdb
